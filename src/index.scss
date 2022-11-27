@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@300;400&display=swap');
 
-*{
+* {
   box-sizing: border-box;
 }
 
@@ -13,7 +13,12 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family:
+    source-code-pro,
+    Menlo,
+    Monaco,
+    Consolas,
+    'Courier New',
     monospace;
 }
 
@@ -21,4 +26,3 @@ a {
   text-decoration: none;
   color: #000;
 }
-
