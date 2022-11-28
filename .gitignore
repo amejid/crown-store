@@ -10,6 +10,7 @@
 
 # production
 /build
+.env
 
 # misc
 .DS_Store
@@ -24,3 +25,5 @@ yarn-error.log*
 
 # IDE config
 .idea
+# Local Netlify folder
+.netlify
