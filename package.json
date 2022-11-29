@@ -25,6 +25,7 @@
     "sass": "^1.56.1",
     "stripe": "^11.1.0",
     "styled-components": "^5.3.6",
+    "typed-redux-saga": "^1.5.0",
     "typescript": "^4.9.3",
     "web-vitals": "^2.1.0"
   },
@@ -53,6 +54,7 @@
     ]
   },
   "devDependencies": {
+    "babel-plugin-macros": "^3.1.0",
     "stylelint": "13.x",
     "stylelint-config-standard": "21.x",
     "stylelint-csstree-validator": "1.x",
