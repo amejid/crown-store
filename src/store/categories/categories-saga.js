@@ -3,7 +3,7 @@ import {
 } from 'redux-saga/effects';
 import { getCategoriesAndDocuments } from '../../utils/firebase/firebase.utils';
 import { fetchCategoriesFailed, fetchCategoriesSuccess } from './categories.action';
-import CATEGORIES_ACTION_TYPES from './categories.types';
+import { CATEGORIES_ACTION_TYPES } from './categories.types';
 
 export function* fetchCategoriesAsync() {
   try {
